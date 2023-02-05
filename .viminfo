@@ -14,10 +14,10 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
+|2,0,1675629320,,"wq"
 :q
 |2,0,1675627844,,"q"
-:wq
-|2,0,1675627347,,"wq"
 :qw
 |2,0,1675272117,,"qw"
 :set paste
@@ -66,34 +66,48 @@ $
 |3,0,36,0,1,0,1675271442,"d"
 
 # File marks:
-'0  1  0  ~/watchtower/docker-compose.yml
-|4,48,1,0,1675627844,"~/watchtower/docker-compose.yml"
-'1  9  12  ~/grace-burke-production/docker-compose.yml
-|4,49,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
-'2  29  0  ~/traefik/docker-compose.yml
-|4,50,29,0,1675626215,"~/traefik/docker-compose.yml"
-'3  57  25  ~/traefik/traefik.yml
-|4,51,57,25,1675626136,"~/traefik/traefik.yml"
-'4  3  20  ~/traefik/Dockerfile
-|4,52,3,20,1675625963,"~/traefik/Dockerfile"
-'5  1  11  ~/docker-compose.yml
-|4,53,1,11,1675623866,"~/docker-compose.yml"
-'6  14  6  ~/public-html/index.html
-|4,54,14,6,1675272234,"~/public-html/index.html"
-'7  15  0  ~/public-html/index.html
-|4,55,15,0,1675272122,"~/public-html/index.html"
-'8  6  11  ~/docker-compose.yml
-|4,56,6,11,1675271812,"~/docker-compose.yml"
+'0  2  21  ~/.gitconfig
+|4,48,2,21,1675629320,"~/.gitconfig"
+'1  1  0  ~/watchtower/docker-compose.yml
+|4,49,1,0,1675627844,"~/watchtower/docker-compose.yml"
+'2  9  12  ~/grace-burke-production/docker-compose.yml
+|4,50,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
+'3  29  0  ~/traefik/docker-compose.yml
+|4,51,29,0,1675626215,"~/traefik/docker-compose.yml"
+'4  57  25  ~/traefik/traefik.yml
+|4,52,57,25,1675626136,"~/traefik/traefik.yml"
+'5  3  20  ~/traefik/Dockerfile
+|4,53,3,20,1675625963,"~/traefik/Dockerfile"
+'6  1  11  ~/docker-compose.yml
+|4,54,1,11,1675623866,"~/docker-compose.yml"
+'7  14  6  ~/public-html/index.html
+|4,55,14,6,1675272234,"~/public-html/index.html"
+'8  15  0  ~/public-html/index.html
+|4,56,15,0,1675272122,"~/public-html/index.html"
 '9  6  11  ~/docker-compose.yml
 |4,57,6,11,1675271812,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  2  21  ~/.gitconfig
+|4,39,2,21,1675629320,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1675629286,"~/.gitconfig"
+-'  1  0  ~/watchtower/docker-compose.yml
+|4,39,1,0,1675627844,"~/watchtower/docker-compose.yml"
 -'  1  0  ~/watchtower/docker-compose.yml
 |4,39,1,0,1675627844,"~/watchtower/docker-compose.yml"
 -'  9  12  ~/grace-burke-production/docker-compose.yml
 |4,39,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
 -'  9  12  ~/grace-burke-production/docker-compose.yml
 |4,39,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
+-'  9  12  ~/grace-burke-production/docker-compose.yml
+|4,39,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
+-'  9  12  ~/grace-burke-production/docker-compose.yml
+|4,39,9,12,1675627347,"~/grace-burke-production/docker-compose.yml"
+-'  1  0  ~/grace-burke-production/docker-compose.yml
+|4,39,1,0,1675626996,"~/grace-burke-production/docker-compose.yml"
+-'  1  0  ~/grace-burke-production/docker-compose.yml
+|4,39,1,0,1675626996,"~/grace-burke-production/docker-compose.yml"
 -'  1  0  ~/grace-burke-production/docker-compose.yml
 |4,39,1,0,1675626996,"~/grace-burke-production/docker-compose.yml"
 -'  1  0  ~/grace-burke-production/docker-compose.yml
@@ -106,6 +120,22 @@ $
 |4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
 -'  29  0  ~/traefik/docker-compose.yml
 |4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
+-'  29  0  ~/traefik/docker-compose.yml
+|4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
+-'  29  0  ~/traefik/docker-compose.yml
+|4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
+-'  29  0  ~/traefik/docker-compose.yml
+|4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
+-'  29  0  ~/traefik/docker-compose.yml
+|4,39,29,0,1675626215,"~/traefik/docker-compose.yml"
+-'  1  0  ~/traefik/docker-compose.yml
+|4,39,1,0,1675626152,"~/traefik/docker-compose.yml"
+-'  1  0  ~/traefik/docker-compose.yml
+|4,39,1,0,1675626152,"~/traefik/docker-compose.yml"
+-'  1  0  ~/traefik/docker-compose.yml
+|4,39,1,0,1675626152,"~/traefik/docker-compose.yml"
+-'  1  0  ~/traefik/docker-compose.yml
+|4,39,1,0,1675626152,"~/traefik/docker-compose.yml"
 -'  1  0  ~/traefik/docker-compose.yml
 |4,39,1,0,1675626152,"~/traefik/docker-compose.yml"
 -'  1  0  ~/traefik/docker-compose.yml
@@ -130,6 +160,38 @@ $
 |4,39,57,25,1675626136,"~/traefik/traefik.yml"
 -'  57  25  ~/traefik/traefik.yml
 |4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  57  25  ~/traefik/traefik.yml
+|4,39,57,25,1675626136,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
+-'  1  0  ~/traefik/traefik.yml
+|4,39,1,0,1675626022,"~/traefik/traefik.yml"
 -'  1  0  ~/traefik/traefik.yml
 |4,39,1,0,1675626022,"~/traefik/traefik.yml"
 -'  1  0  ~/traefik/traefik.yml
@@ -178,6 +240,38 @@ $
 |4,39,3,20,1675625963,"~/traefik/Dockerfile"
 -'  3  20  ~/traefik/Dockerfile
 |4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
+-'  3  20  ~/traefik/Dockerfile
+|4,39,3,20,1675625963,"~/traefik/Dockerfile"
 -'  1  0  ~/traefik/Dockerfile
 |4,39,1,0,1675625923,"~/traefik/Dockerfile"
 -'  1  0  ~/traefik/Dockerfile
@@ -194,102 +288,15 @@ $
 |4,39,1,0,1675625923,"~/traefik/Dockerfile"
 -'  1  0  ~/traefik/Dockerfile
 |4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  0  ~/traefik/Dockerfile
-|4,39,1,0,1675625923,"~/traefik/Dockerfile"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  1  11  ~/docker-compose.yml
-|4,39,1,11,1675623866,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
--'  6  11  ~/docker-compose.yml
-|4,39,6,11,1675623857,"~/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	*	1675629317	0
+	"	2	21
+	^	2	22
+	.	2	22
+	+	2	22
 
 > ~/watchtower/docker-compose.yml
 	*	1675627831	0
